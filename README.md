@@ -25,7 +25,7 @@
         </ol>
     </ul>
     <hr>
-    <h3 id="me">About My Personally</h3>
+    <h3 id="me">About Me Personally</h3>
     <ul>
         <li>I have a really bad habit of overcomplicating stuff (it sometimes show up in my programs too 😅)</li>
         <li>I love reading books especially Science Fiction genres</li>
