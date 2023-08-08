@@ -33,7 +33,17 @@
     </ul>
     <hr>
     <h3>Glimpses of my Programs</h3>
-    <a href="https://github.com/SuspiciousDude/Courier_Database_Project.git"><img src="Project1.png" alt=""></a>
-
+    <ol>
+        <li>Courier-Delivery-Database-System</li>
+            <br>
+            <a href="https://github.com/SuspiciousDude/Courier_Database_Project.git"><img src="ProjectP-1.png" alt="CourierDeliveryPart1"></a>
+            <a href="https://github.com/SuspiciousDude/Courier_Database_Project.git"><img src="ProjectP-2.png" alt="CourierDeliveryPart2"></a>
+            <br>
+            <hr>
+        <li>CSV to Mysql and vice-versa</li>
+            <br>
+            <a href="https://github.com/SuspiciousDude/CSV-to-SQL-conversion.git"><img src="ProjectQ-1.png" alt="CSVtoSQLPart1"></a>
+            <a href="https://github.com/SuspiciousDude/CSV-to-SQL-conversion.git"><img src="ProjectQ-2.png" alt="CSVtoSQLPart2"></a>
+    </ol>
 </body>
 </html>
