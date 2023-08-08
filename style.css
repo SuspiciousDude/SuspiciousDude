@@ -1,4 +1,11 @@
+body{
+    background-color: black;
+    color: white;
+}
 
+#hi{
+    text-align: center;
+}
 
 #greet{
     font-size: x-large;
